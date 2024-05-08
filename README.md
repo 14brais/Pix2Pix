@@ -1,8 +1,6 @@
 # Implementation of Image-to-Image GANs
 
-This repository contains all the code and information necessary to implement the Pix2Pix model for generating realistic images from label images. The models used to generate them are defined in TensorFlow. An example of the generated images is the following (keeping in mind that this is a very simple example). 
-
-![Example Image](https://github.com/14brais/Pix2Pix/raw/main/Images/example.png)
+This repository contains all the code and information necessary to implement the Pix2Pix model for generating realistic images from label images. The models used to generate them are defined in TensorFlow.
 
 
 ## 1. Manual
